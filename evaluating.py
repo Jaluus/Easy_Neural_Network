@@ -1,6 +1,6 @@
 from pickle import load
 import numpy as np
-from src.network import Network, load_network
+from src.network import load_network
 import src.mnist_loader as mnist_loader
 import matplotlib.pyplot as plt
 
